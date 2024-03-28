@@ -1,6 +1,8 @@
 # Text Emotion Classifier
 This project implements a Text Emotion Classifier using Streamlit, a Python library for building interactive web applications, and a Logistic Regression model trained on preprocessed text data.
 
+Deployed url: [LINK](https://text-emotion-classifier-ezussvafdshcp8fz4hz9k5.streamlit.app/)
+
 ### Overview
 The Text Emotion Classifier allows users to input text and predicts the emotion associated with the input text. Emotions recognized by the classifier include anger, disgust, fear, happy, joy, neutral, sad, sadness, shame, and surprise.
 
